@@ -1,0 +1,1 @@
+teste de arquivo apos erro de push em outro repositorio.
